@@ -1,0 +1,12 @@
+class Solution {
+    public int findNumbers(int[] nums) {
+        int sum = 0;
+        for(int num : nums){
+            //System.out.println(Integer.toString(num).length()%2);
+            if(Integer.toString(num).length()%2 == 0){
+                sum++;
+            }
+        }
+        return sum;
+    }
+}
