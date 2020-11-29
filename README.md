@@ -1,5 +1,4 @@
 # Leetcode_Questions
 Leetcode Practice Questions
 
-10 So far...
- addededed
+Commiting to commit at least 5 LeetCode questions per week and improve my algorithm skills.
